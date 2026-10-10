@@ -1,0 +1,17 @@
+{
+  "name": "Lekka App",
+  "short_name": "Lekka",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf7f8",
+  "theme_color": "#541327",
+  "description": "A simple lending and daily collection ledger with Kannada voice entry",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
